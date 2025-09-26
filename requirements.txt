@@ -1,0 +1,6 @@
+numpy==2.3.3
+cvxopt==1.3.0
+pandas
+plotly
+cufflinks==0.17.3
+notebook
